@@ -34,6 +34,19 @@
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github" />
 </p>
 
+---
+
+### 🚀 Featured Projects
+
+[![Smart Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=Rajank879&repo=Smart-Ecommerce-Compose&theme=tokyonight)](https://github.com/Rajank879/Smart-Ecommerce-Compose)
+
+🛒 **Smart E-Commerce App**
+- Jetpack Compose + MVVM + MVI
+- Razorpay, Google Maps, QR Scanner
+- Clean Architecture (Production-ready)
+
+---
+
 ### 🧩 Architecture & Tools
 
 * MVVM, Clean Architecture
