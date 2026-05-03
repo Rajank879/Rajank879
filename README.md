@@ -38,12 +38,14 @@
 
 ### 🚀 Featured Projects
 
-[![Smart Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=Rajank879&repo=Smart-Ecommerce-Compose&theme=tokyonight)](https://github.com/Rajank879/Smart-Ecommerce-Compose)
+<a href="https://github.com/Rajank879/Smart-Ecommerce-Compose">
+  <img src="https://github.com/Rajank879/Smart-Ecommerce-Compose/raw/main/screenshots/home_screen.png" width="250"/>
+</a>
 
 🛒 **Smart E-Commerce App**
-- Jetpack Compose + MVVM + MVI
-- Razorpay, Google Maps, QR Scanner
-- Clean Architecture (Production-ready)
+- Jetpack Compose + MVVM + MVI  
+- Razorpay, Maps, QR Scanner  
+- Clean Architecture  
 
 ---
 
