@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Android+Engineer;9%2B+Years+Experience;Building+Scalable+Apps;Exploring+AI+%26+ML&center=true&width=500&height=45">
 </p>
 
+
 <h3 align="center">🚀 Senior Android Engineer | 🤖 Transitioning to AI</h3>
 
 ---
@@ -11,10 +12,10 @@
 ### 💡 About Me
 
 * 🧑‍💻 9+ years of experience in Android Development
-* 📱 Built scalable Android apps used by 1M+ users with high performance & stability
-* 🛒 Expertise in Cart, Checkout, Payments, Rewards systems
-* ⚡ Improved performance, stability & crash reduction
-* 🔁 Strong experience in CI/CD, scalable architecture & clean code
+* 📱 Built scalable apps used by 1M+ users with high performance & stability
+* 🛒 Expertise in Cart, Checkout, Payments systems
+* ⚡ Focus on performance, scalability & clean architecture
+* 🔁 Strong experience in CI/CD & production apps
 
 ---
 
@@ -36,16 +37,32 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
-<a href="https://github.com/Rajank879/Smart-Ecommerce-Compose">
-  <img src="https://github.com/Rajank879/Smart-Ecommerce-Compose/raw/main/screenshots/home_screen.png" width="250"/>
-</a>
+🛒 Smart E-Commerce App (Compose + MVI)
 
-🛒 **Smart E-Commerce App**
-- Jetpack Compose + MVVM + MVI  
-- Razorpay, Maps, QR Scanner  
-- Clean Architecture  
+<p align="center">
+  <a href="https://github.com/Rajank879/Smart-Ecommerce-Compose">
+    <img src="https://raw.githubusercontent.com/Rajank879/Smart-Ecommerce-Compose/main/screenshots/dark_theme.gif" width="250"/>
+  </a>
+  <a href="https://github.com/Rajank879/Smart-Ecommerce-Compose">
+    <img src="https://raw.githubusercontent.com/Rajank879/Smart-Ecommerce-Compose/main/screenshots/light_theme.gif" width="250"/>
+  </a>
+</p>
+
+
+<p align="center">
+  👉 <a href="https://github.com/Rajank879/Smart-Ecommerce-Compose"><b>View Repository</b></a>
+</p>
+
+🔥 Highlights
+
+* Jetpack Compose + MVVM + MVI + Clean Architecture
+* 💳 Razorpay Payment Integration
+* 📍 Google Maps + Places API
+* 🔍 Barcode & QR Product Search (ML Kit)
+* ⚡ Paging 3 + Coroutines + Flow
+* 🌗 Dark & Light Theme Support
 
 ---
 
@@ -62,11 +79,13 @@
 
 ### 🏢 Professional Experience
 
+🏢 Experience
+
 * 🏢 Senior Software Engineer @ Photon
-* 📦 Worked on multi-brand grocery platform (6 OPCOs)
-* 📈 Supported applications with millions of downloads
-* 💳 Implemented Payments (Card, Bank, EBT)
-* 🛒 Built Cart & Checkout systems at scale
+* 📦 Multi-brand grocery platform (6 OPCOs)
+* 📈 Applications with millions of downloads
+* 💳 Payment systems (Card, Bank, EBT)
+* 🛒 Scalable Cart & Checkout
 
  ---
 
